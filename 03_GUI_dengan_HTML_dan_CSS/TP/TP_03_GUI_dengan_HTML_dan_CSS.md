@@ -38,7 +38,7 @@ Menonaktifkan fitur mengubah ukuran textarea secara manual oleh pengguna.
 ----------margin-top: 5px;----------<br>
 Memberikan jarak 5 piksel dari elemen di atasnya.
 
-----------font-family: 'Inconsolata', monospace;----------
+----------font-family: 'Inconsolata', monospace;----------<br>
 Menyamakan font textarea dengan font halaman agar tampilannya konsisten.
 
 3. .p > span
