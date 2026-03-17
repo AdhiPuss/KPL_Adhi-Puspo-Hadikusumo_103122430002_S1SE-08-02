@@ -1,0 +1,28 @@
+# TM 03_GUI_dengan_HTML_dan_CSS
+
+`Adhi Puspo Hadikusumo`
+
+`103122430002`
+
+`S1SE-08-02`
+
+`Dosen pengampu: Yudha Islami Sulistiya`
+
+`Asisten Praktikum: Adhiansyah Ancha & Hamid Khaeruman`
+
+## Soal
+
+Setelah kamu menyelesaikan tugas pendahuluan (bisa buka di atas), terapkanlah fungsi untuk (1) menghitung huruf kecil yang disediakan di #hk, (2) mengubah huruf kecil ke huruf besar ketika pengguna menekan tombol #huruf-besar, dan (3) mengubah huruf besar ke huruf kecil ketika pengguna menekan tombol #huruf-kecil. Untuk nomor 2 dan 3, tampilkan hasilnya di dalam editor-kecil. Kemudian, hapuslah fitur "Paragrafkan" dari alat.
+
+## Kode Sumber
+
+Ada di [index.html](../TM/index.html) , [index.js](../TM/index.js) dan , [index.css](../TM/index.css)
+
+## Output
+![1.](IMG1.png) ![2.](IMG2.png) ![3.](IMG3.png)
+
+## Deskripsi
+
+Pada pengerjaan kali ini dilakukan beberapa perubahan pada alat pengolah teks yang sudah dibuat sebelumnya. pertama adalah menambahkan fungsi untuk menghitung jumlah huruf kecil dari teks yang diketik di `textarea`, lalu hasilnya ditampilkan pada bagian `#hk`. Lalu untuk btn `#huruf-besar` digunakan untuk mengubah huruf kecil yang ada di teks menjadi huruf besar. Setelah tombol tersebut ditekan, hasil perubahannya langsung muncul kembali di `editor-kecil`. btn `#huruf-kecil` juga ditambahkanlah fungsi untuk mengubah huruf besar menjadi huruf kecil. Pada tugas ini fitur Paragrafkan yang sebelumnya ada juga dihapus, sehingga ini hanya digunakan untuk menghitung huruf dan mengubah bentuk huruf besar maupun kecil. Disini juga bisa melihat huruf campuran antara yang besar dan kecil, serta untuk jumlah hurufnya sekarang hanya menghitung huruf saja tanpa terhitung juga elemen lain seperti space, simbol, angka dll
+
+Itu saja yang bisa dijelaskan, terimakasih ~~
