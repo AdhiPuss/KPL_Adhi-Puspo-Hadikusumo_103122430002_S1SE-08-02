@@ -1,0 +1,53 @@
+body{
+    /* mengatur font utama untuk seluruh halaman */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.kotak-input{
+    /* membuat textarea tampil sebagai block dan tidak bisa di resize */
+    display:block;
+    resize:none;
+}
+
+button{
+    /* membuat tombol tampil di baris baru */
+    display:block;
+    margin-top:10px;
+}
+
+.container{
+    /* mengatur lebar maksimum container supaya tampilan tetap rapi */
+    max-width:700px;
+}
+
+/* style popup */
+
+.popup{
+    /* popup disembunyikan dulu */
+    display:none;
+
+    position:fixed;
+    top:0;
+    left:0;
+
+    width:100%;
+    height:100%;
+
+    background:rgba(0,0,0,0.5);
+
+    /* supaya isi popup berada di tengah layar */
+    justify-content:center;
+    align-items:center;
+}
+
+.popup-content{
+    /* background popup */
+    background:white;
+    padding:20px;
+    text-align:center;
+}
+
+.popup img{
+    /* size gif */
+    width:120px;
+}
