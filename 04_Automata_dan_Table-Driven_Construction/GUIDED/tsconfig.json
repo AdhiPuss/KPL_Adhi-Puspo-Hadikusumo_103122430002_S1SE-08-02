@@ -1,0 +1,20 @@
+{
+  // Visit https://aka.ms/tsconfig to read more about this file "compilerOptions": {
+    // "module": "nodenext",
+    // "target": "esnext",
+    // "types": [],
+    // "sourceMap": true,
+    // "declaration": true,
+    // "declarationMap": true,
+
+  // npx tsc --init untuk buat tsconfig.json
+  // npx tsc --version untuk cek versi
+  
+  "compilerOptions": {
+    "strict": true, // biar berkas js patuh pada ts
+    "allowJs": true, // izinkan js
+    "checkJs": true, // sama kaya atas
+    "noEmit": true // biar ga ada ts
+  },
+  "include": ["./*/.js"]
+}
