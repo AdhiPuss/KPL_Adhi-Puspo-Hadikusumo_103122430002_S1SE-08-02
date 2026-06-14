@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "contoh_mtk2": "file:../contoh_mtk"
+  }
+}
